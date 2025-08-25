@@ -25,7 +25,4 @@ This project implements a voice-based AI phone agent using Google Gemini generat
 
 1. Clone this repository:
 
-git clone https://github.com/pruthvideepam/ai-calling.git
-cd ai-calling
-
 2. Install Python dependencies:
